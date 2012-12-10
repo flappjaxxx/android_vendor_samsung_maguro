@@ -46,7 +46,6 @@ PRODUCT_COPY_FILES += \
 # Extras for The Unofficial
 PRODUCT_COPY_FILES += \
     vendor/samsung/maguro/prebuilt/apps/Superuser.apk:system/app/Superuser.apk \
-    vendor/samsung/maguro/prebuilt/apps/FJTools.apk:system/app/FJTools.apk \
     vendor/samsung/maguro/prebuilt/xbin/su:system/xbin/su \
     vendor/samsung/maguro/prebuilt/xbin/busybox:system/xbin/busybox \
     vendor/samsung/maguro/prebuilt/apps/Term.apk:system/app/Term.apk \
