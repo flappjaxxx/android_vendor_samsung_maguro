@@ -51,7 +51,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/maguro/prebuilt/apps/Term.apk:system/app/Term.apk \
     vendor/samsung/maguro/prebuilt/apps/QSCP.apk:system/app/QSCP.apk \
     vendor/samsung/maguro/prebuilt/lib/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so \
-    vendor/samsung/maguro/prebuilt/etc/permissions/com.tmobile.software.themes.xml:system/letc/permissions/com.tmobile.software.themes.xml \
+    vendor/samsung/maguro/prebuilt/etc/permissions/com.tmobile.software.themes.xml:system/etc/permissions/com.tmobile.software.themes.xml \
     vendor/samsung/maguro/prebuilt/bin/fjtool:system/bin/fjtool
 
 # T-Mobile theme engine
